@@ -1,0 +1,11 @@
+{
+  "name": "demo_app",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'ouvrir index.html manuellement'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
